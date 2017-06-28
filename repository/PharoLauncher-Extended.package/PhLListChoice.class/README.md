@@ -1,0 +1,1 @@
+I am a user interaction that let the user choose an item in a list.

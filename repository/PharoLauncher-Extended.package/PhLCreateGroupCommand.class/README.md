@@ -1,0 +1,1 @@
+Create a group of images on the hard disk. 

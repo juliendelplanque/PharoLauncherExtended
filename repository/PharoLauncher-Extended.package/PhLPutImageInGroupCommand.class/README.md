@@ -1,0 +1,1 @@
+Put the currently selected images in the group selected. Can be applied on multiple images.
