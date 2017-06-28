@@ -1,5 +1,4 @@
 accessing
-name: anObject
+name: aString
 	self meta
-		valueOfProperty: 'name' set: anObject;
-		writeMetadata
+		name: aString

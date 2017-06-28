@@ -1,3 +1,3 @@
-accessing
+private
 valueOfProperty: aKey
-	^ self readMetadata at: aKey
+	^ self valueOfProperty: aKey ifAbsent: [ ^ nil ]

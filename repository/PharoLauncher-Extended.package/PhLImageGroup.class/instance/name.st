@@ -1,3 +1,3 @@
 accessing
 name
-	^ self meta valueOfProperty: 'name'
+	^ self meta name
