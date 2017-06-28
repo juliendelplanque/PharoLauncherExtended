@@ -1,0 +1,14 @@
+{
+	"category" : "PharoLauncher-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory" ],
+	"name" : "PhLDirectoryBasedImageExtendedRepository",
+	"pools" : [
+		 ],
+	"super" : "PhLDirectoryBasedImageRepository",
+	"type" : "normal" }

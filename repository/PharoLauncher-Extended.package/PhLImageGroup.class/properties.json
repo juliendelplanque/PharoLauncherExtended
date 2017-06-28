@@ -1,0 +1,18 @@
+{
+	"category" : "PharoLauncher-Extended",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "PhLTObject classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory",
+		"images",
+		"name" ],
+	"name" : "PhLImageGroup",
+	"pools" : [
+		 ],
+	"super" : "PhLObject",
+	"traitcomposition" : "PhLTObject - {#children. #hasChildren}",
+	"type" : "normal" }
