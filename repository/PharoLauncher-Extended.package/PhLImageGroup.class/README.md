@@ -1,0 +1,1 @@
+I am a group of image. I can be used to have a better organisations of images on the hard disk.
