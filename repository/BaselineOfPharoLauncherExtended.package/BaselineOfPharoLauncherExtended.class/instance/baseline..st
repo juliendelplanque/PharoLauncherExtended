@@ -6,4 +6,6 @@ baseline: spec
 		do: [ 
 			self
 				definePackages: spec;
-				defineDependencies: spec ]
+				defineDependencies: spec.
+			spec
+				postLoadDoIt: #setPharoLauncherExtendedForStartup ]
