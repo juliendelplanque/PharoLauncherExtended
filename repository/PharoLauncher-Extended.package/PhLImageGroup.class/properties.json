@@ -9,7 +9,7 @@
 	"instvars" : [
 		"directory",
 		"images",
-		"name" ],
+		"meta" ],
 	"name" : "PhLImageGroup",
 	"pools" : [
 		 ],

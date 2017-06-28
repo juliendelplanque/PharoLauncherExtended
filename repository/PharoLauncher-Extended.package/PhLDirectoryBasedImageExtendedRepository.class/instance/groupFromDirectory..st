@@ -6,7 +6,6 @@ groupFromDirectory: dir
 	[
 		metadata := metadataFile readStreamDo: [ :s | STONJSON fromStream: s  ].
 		group := PhLImageGroup new
-						name: (metadata at: 'name');
 						directory: dir;
 						images: ((dir directories collect: [ :d | self imageFromDirectory: d ])
 										reject: #isNil);

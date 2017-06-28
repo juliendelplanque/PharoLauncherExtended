@@ -1,0 +1,15 @@
+{
+	"category" : "PharoLauncher-Extended-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 6/28/2017 19:10",
+	"instvars" : [
+		"directory",
+		"tempMetadata" ],
+	"name" : "PhLImageGroupMetadata",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
