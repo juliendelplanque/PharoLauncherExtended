@@ -1,0 +1,3 @@
+*PharoLauncher-Extended
+isGroup
+	^ false

@@ -1,0 +1,14 @@
+{
+	"category" : "PharoLauncher-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhLPutImageInGroupCommand",
+	"pools" : [
+		 ],
+	"super" : "PhLImageCommand",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "PharoLauncher-Extended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"message" ],
+	"name" : "PhLListChoice",
+	"pools" : [
+		 ],
+	"super" : "PhLUserInteraction",
+	"type" : "normal" }
