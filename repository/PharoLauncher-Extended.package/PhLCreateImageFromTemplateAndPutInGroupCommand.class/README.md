@@ -1,0 +1,1 @@
+Extract the selected template to a new image in a group selected by user.
