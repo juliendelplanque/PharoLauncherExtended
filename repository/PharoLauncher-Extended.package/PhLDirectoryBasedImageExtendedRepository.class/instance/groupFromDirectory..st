@@ -8,6 +8,8 @@ groupFromDirectory: dir
 		group := PhLImageGroup new
 						name: (metadata at: 'name');
 						directory: dir;
+						images: ((dir directories collect: [ :d | self imageFromDirectory: d ])
+										reject: #isNil);
 						yourself
 	] on: Error do: [ ^ nil ].
 	^ group
