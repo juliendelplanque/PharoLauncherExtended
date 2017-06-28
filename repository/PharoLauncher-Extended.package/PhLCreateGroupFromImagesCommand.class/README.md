@@ -1,0 +1,1 @@
+I am the command that create a new group and put the images selected in it.

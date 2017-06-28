@@ -1,0 +1,14 @@
+{
+	"category" : "PharoLauncher-Extended-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 6/28/2017 18:49",
+	"instvars" : [
+		 ],
+	"name" : "PhLCreateGroupFromImagesCommand",
+	"pools" : [
+		 ],
+	"super" : "PhLImageCommand",
+	"type" : "normal" }
