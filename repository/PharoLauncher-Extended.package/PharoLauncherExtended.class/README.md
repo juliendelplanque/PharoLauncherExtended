@@ -1,0 +1,1 @@
+I do the same thing as my superclass but I provide additionnal functionalities such as image groups.

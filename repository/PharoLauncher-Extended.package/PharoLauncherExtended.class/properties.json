@@ -1,0 +1,14 @@
+{
+	"category" : "PharoLauncher-Extended-Spec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 6/28/2017 14:31",
+	"instvars" : [
+		 ],
+	"name" : "PharoLauncherExtended",
+	"pools" : [
+		 ],
+	"super" : "PharoLauncher",
+	"type" : "normal" }

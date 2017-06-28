@@ -1,0 +1,3 @@
+private
+commandClassesForImagesToolbar
+	^ Array with: PhLLaunchImageCommand with: PhLLaunchImageWithoutSettingCommand with: PhLDeleteImageCommand with: PhLCreateGroupCommand with: PhLRefreshImageRepositoryCommand
