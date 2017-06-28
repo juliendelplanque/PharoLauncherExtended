@@ -1,3 +1,3 @@
 accessing
 children
-	^ images
+	^ images sorted: [ :a :b | a name < b name ]
