@@ -1,0 +1,3 @@
+*PharoLauncher-Extended
+openExtended
+	self createExtendedLauncher openWithSpec
