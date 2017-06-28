@@ -1,11 +1,11 @@
 {
-	"category" : "PharoLauncher-Extended",
+	"category" : "PharoLauncher-Extended-Model",
 	"classinstvars" : [
 		 ],
 	"classtraitcomposition" : "PhLTObject classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 6/28/2017 12:03",
 	"instvars" : [
 		"directory",
 		"images",
