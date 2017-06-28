@@ -1,0 +1,14 @@
+{
+	"category" : "PharoLauncher-Extended-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhLCreateImageFromTemplateAndPutInGroupCommand",
+	"pools" : [
+		 ],
+	"super" : "PhLTemplateCommand",
+	"type" : "normal" }
