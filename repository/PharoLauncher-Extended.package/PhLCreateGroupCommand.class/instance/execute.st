@@ -7,5 +7,5 @@ execute
 						validateAnswer: [ :answer |
 							context imageRepository groups noneSatisfy: [ :g | g name = answer ] ];
 						request.
-
+	groupName ifNil: [ ^ self ].
 	context imageRepository createGroupNamed: groupName
