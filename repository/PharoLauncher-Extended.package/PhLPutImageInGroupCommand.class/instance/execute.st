@@ -10,8 +10,9 @@ execute
 	"User wants to move image to root group."
 	(self shouldImageBeMovedToRoot: groupName)
 		ifTrue: [ 
-			context imageRepository moveImageToRootGroup: context singleImage.
+			context selectedImages do: [ :image | context imageRepository moveImageToRootGroup: image ].
 			^ self ].
 	"User wants to move in a group."
 	group := context imageRepository groups detect: [ :g | g name = groupName ].
-	context imageRepository moveImage: context singleImage to: group.
+	context selectedImages do: [ :image |
+		context imageRepository moveImage: image to: group ].

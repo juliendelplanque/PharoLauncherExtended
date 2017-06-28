@@ -10,5 +10,5 @@
 	"name" : "PhLCreateGroupCommand",
 	"pools" : [
 		 ],
-	"super" : "PhLGroupCommand",
+	"super" : "PhLGeneralCommand",
 	"type" : "normal" }
