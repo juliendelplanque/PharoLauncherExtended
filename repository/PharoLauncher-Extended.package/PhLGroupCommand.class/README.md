@@ -1,0 +1,1 @@
+I am an abstract command to apply on  an image group.

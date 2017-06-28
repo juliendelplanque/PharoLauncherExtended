@@ -1,0 +1,1 @@
+I delete the group and all the images it contains from the hard drive. I can only be applied to a single group for security reasons.
