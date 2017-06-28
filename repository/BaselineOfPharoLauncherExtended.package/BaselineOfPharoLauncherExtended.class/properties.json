@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPharoLauncherExtended",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPharoLauncherExtended",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
